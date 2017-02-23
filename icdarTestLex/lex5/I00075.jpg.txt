@@ -1,0 +1,8 @@
+BEWARE
+CASHIER
+DOOR
+GENE
+ILET
+act
+bar
+one
